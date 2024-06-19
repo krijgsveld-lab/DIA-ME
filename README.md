@@ -7,5 +7,5 @@ Proteome analysis by data-independent acquisition (DIA) has become a powerful ap
 
 # Project structure
 1. Introduction and evaluation of the DIA-ME workflow
-2. Comparison of DIA-ME and standard analysis of 200-pg samples in respect to the result from conventional 200-ng bulk samples
+2. Comparison of DIA-ME and standard analysis of 200-pg samples in respect to results from conventional 200-ng bulk samples
 3. Application of our enhanced workflow to individual U-2 OS cells treated with interferon gamma (IFN-γ)
