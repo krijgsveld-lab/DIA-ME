@@ -1,5 +1,5 @@
 # Enhanced feature matching in single-cell proteomics
-This repository comprises Python code, protein and peptides tables from the DIA-ME pre-print (https://www.biorxiv.org/content/10.1101/2024.01.10.575010v1.article-metrics). 
+This repository contains the Python code used in the DIA-ME pre-print (https://www.biorxiv.org/content/10.1101/2024.01.10.575010v1.article-metrics). 
 Proteomic data originates from acquistion on a timsTOF Pro and Fusion Orbitrap instrument, and raw data can be found on PRIDE under the accession numbers:
 
 # Project description (Abstract)
